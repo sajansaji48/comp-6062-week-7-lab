@@ -9,8 +9,8 @@ numberInput.addEventListener('input',()=>{
 
 });
 const fruit={
-    Name: 'Apple',
-    color:'Red',
+    Name: 'Kiwi',
+    color:'Beige',
     Taste:'Sweet'
 };
 document.querySelector('#fruitName').innerHTML=`Name: ${fruit.Name}`;
